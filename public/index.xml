@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dear Data visits R-Ladies global</title>
+    <title>R-Ladies explore Dear Data</title>
     <link>/</link>
-    <description>Recent content on Dear Data visits R-Ladies global</description>
+    <description>Recent content on R-Ladies explore Dear Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2017 YBea and Chrissy, R-Ladies global</copyright>
+    <copyright>&amp;copy;2017 Bea and Chrissy, R-Ladies global</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
