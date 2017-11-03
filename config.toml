@@ -1,4 +1,4 @@
-baseurl = "http://crispy-disco.netlify.com/"
+baseurl = "https://crispy-disco.netlify.com/"
 title = "R-Ladies explore Dear Data"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -6,6 +6,9 @@ languageCode = "en-us"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+
+#added recommended from blogdown
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
