@@ -15,7 +15,7 @@ enableEmoji = true
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "violet"
-  description = "Describe your website"
+  description = "An analogue data viz project"
   copyright = "&copy;2017 Bea and Chrissy, R-Ladies global"
   sidebarAbout = [
     "Although our daily job is mostly about the digital way of data visualisation, this project is dedicated to the analogue way of presenting data based on our own daily routines beyond the possibilities of a certain package.",
