@@ -13,32 +13,34 @@
     
     
     <item>
-      <title>Name of the work 2</title>
+      <title>Join us and show us your data!</title>
       <link>/portfolio/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/portfolio/work2/</guid>
-      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+      <description>&lt;p&gt;Do you would like to join us? Here we summarised all required information about the prohect including a few tips how to get started.
 &lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Name of the work 3</title>
+      <title>Getting started</title>
       <link>/portfolio/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
       <guid>/portfolio/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
+      <description>&lt;p&gt;A short guide describing a possible workflow how to get started with data acquisition and turning data into a beautiful post card.
 &lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Item without image</title>
+      <title>The Dear Data project</title>
       <link>/portfolio/work4/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
       <guid>/portfolio/work4/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+      <description>&lt;p&gt;&lt;strong&gt;Dear Data&lt;/strong&gt; is a collection post cards visualizing daily routines drawn by Georiga Lupi and Stefanie Posavec &lt;a href=&#34;http://www.dear-data.com&#34;&gt;Link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Each week both crafted and sent each other post card crossing the ocean to stay in contact. Each card shows the data of a distinct topic based on their own habbits and daily life.
 &lt;/p&gt;</description>
     </item>
     
@@ -53,6 +55,16 @@
     </item>
     
     <item>
+      <title>#1 postcard</title>
+      <link>/portfolio/work11/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      
+      <guid>/portfolio/work11/</guid>
+      <description>&lt;p&gt;Our first set of postcards.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Name of the work 6</title>
       <link>/portfolio/work6/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
@@ -63,22 +75,22 @@
     </item>
     
     <item>
-      <title>Name of the work 7</title>
+      <title>Dear Data in detail</title>
       <link>/portfolio/work7/</link>
       <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
       
       <guid>/portfolio/work7/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
+      <description>&lt;p&gt;Few more information about the postcard journey of Georgia and Stefanie.
 &lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Name of the work 8</title>
+      <title>Agenda for first chat</title>
       <link>/portfolio/work8/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
       <guid>/portfolio/work8/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
+      <description>&lt;p&gt;Things that are in our mind that we would like to implement before the release of this project.
 &lt;/p&gt;</description>
     </item>
     
@@ -98,16 +110,6 @@
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
       <guid>/portfolio/work10/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>/portfolio/work11/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      
-      <guid>/portfolio/work11/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 &lt;/p&gt;</description>
     </item>

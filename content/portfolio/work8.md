@@ -1,31 +1,52 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/ipad-air-2.jpg"
+image = "img/portfolio/ideas.jpg"
 date = "2016-11-05T19:59:22+05:30"
-title = "Name of the work 8"
+title = "Agenda for first chat"
 weight = 8
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Things that are in our mind that we would like to implement before the release of this project.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+> So far only in bullett points some topics for our chat tomorrow :).
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+### Project-related items
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+    * Which topic do we start with?
+    * Do we miss important information?
+    * General schedule of the project (monthly, dates of topic announcement...)
+    * copyright issues on webpages and of Dear Data
 
-## Header Level 2
+  Topics I liked as an easy starter:
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+    * Week#1: 'Whats the time?' - same kick off as the actual project
+    * Week#3: 'Thank you so much' - things that we easily overlook in daily routine
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+### Technical stuff
+  
+    * Design of the website (useful, better options)
+    * how can we both smoothly work on the project? Github project on a separate Github accound?
+    * how to implement the submission process
+    * do we keep netlify or move to github pages
+    * www.formspree.io for contacting us?
+  
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+### Social media / general accounts
+
+Shall we create project-related accounts to spread the news?
+  
+    * email address on Rladies domain, e.g., deardata@rladies.org?
+    * Instagram account
+    * Twitter account
+    * formspree.io account (mail via webpage)
+    * google analytics
+  
+### Uncategorized items
+
+Well, nothing so far ...
+
+
