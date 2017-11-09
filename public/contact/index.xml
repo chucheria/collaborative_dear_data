@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Get in touch on R-Ladies explore Dear Data</title>
+    <title>Upload your postcards on R-Ladies explore Dear Data</title>
     <link>/contact/</link>
-    <description>Recent content in Get in touch on R-Ladies explore Dear Data</description>
+    <description>Recent content in Upload your postcards on R-Ladies explore Dear Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Bea and Chrissy, R-Ladies global</copyright>
-    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2017 21:07:25 +0530</lastBuildDate>
     
 	<atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
     

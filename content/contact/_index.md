@@ -1,10 +1,20 @@
 +++
-date = "2016-11-06T13:00:25+05:30"
-title = "Get in touch"
+date = "2017-11-09T21:07:25+05:30"
+title = "Upload your postcards"
 +++
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+Hi! We really wanted to get this project started but the whole sending the postcards was a bit... out of our routines. So we thought we should upload them somewhere and share them. 
 
-Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to. Desire so better am cannot he up before points. Remember mistaken opinions it pleasure of debating. Court front maids forty if aware their at. Chicken use are pressed removed.
+One thing let to another and other project made us learn [Blogdown](https://bookdown.org/yihui/blogdown/), so now we can build a whole website collaborative website for everyone to upload their postcards and **join us**. Feel free to **upload any week you feel like it**. 
 
-Able an hope of body. Any nay shyness article matters own removal nothing his forming. Gay own additions education satisfied the perpetual. If he cause manor happy. Without farther she exposed saw man led. Along on happy could cease green oh. 
+We will announce the data subject on monday and will have the art by the end of the next week, so you have two weeks to collect the data and draw something. Of course, **you are welcome to propose a subject** too.
+
+You don't have to send both sides, only the visulization is the one we require to upload your art, but it would be nice if you explain your visualization in the back. Send your message with an explanation of your postcard. If you don't know what to say try to answer these questions:
+
+- What topic are you visualizing?
+- How did you gather your data?
+- Why did you choose that visualization?
+- How do you read your visualization?
+- Is there any fun fact doing your postcard you want to share?
+
+For the moment we don't support direc uploads but if you can send us a link where we can find your postcards we will download it and add it to the pertinent article.

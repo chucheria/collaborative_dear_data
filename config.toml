@@ -46,7 +46,7 @@ enableEmoji = true
   url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "Upload your art"
   url = "contact/"
 
   [params.social]
